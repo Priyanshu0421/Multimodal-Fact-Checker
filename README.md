@@ -80,15 +80,6 @@ Priyanshu Mishra — GitHub
 
 ⚠️ This is a research prototype and not a production-grade fact-checking tool.
 
-yaml
-Copy
-Edit
 
----
 
-Let me know if you'd like to include:
-- Instructions for Docker
-- Demo images or GIFs
-- Contribution guidelines
 
-I can generate those too.
